@@ -1,0 +1,19 @@
+version = 1
+
+[site]
+url            = "https://dylandebeer.nl"
+default_locale = "en"
+locales        = ["en", "nl"]
+owner          = "CodeByDylan"
+
+[[site.links]]
+type = "github"
+url  = "https://github.com/CodeByDylan"
+
+[[site.links]]
+type = "website"
+url  = "https://dylandebeer.nl"
+
+[[site.sections]]
+id   = "about"
+file = "about.md"

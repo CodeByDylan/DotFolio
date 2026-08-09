@@ -1,0 +1,25 @@
+version = 1
+
+[[tags]]
+id   = "csharp"
+kind = "language"
+
+[[tags]]
+id   = "dotnet"
+kind = "framework"
+
+[[tags]]
+id   = "aspnetcore"
+kind = "framework"
+
+[[tags]]
+id   = "api"
+kind = "domain"
+
+[[tags]]
+id   = "web"
+kind = "domain"
+
+[[tags]]
+id   = "tooling"
+kind = "tool"

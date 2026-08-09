@@ -1,0 +1,20 @@
+site.title   = "Dylan de Beer"
+site.tagline = "Things I have built"
+
+link.github  = "GitHub"
+link.website = "Website"
+
+tag.csharp     = "C#"
+tag.dotnet     = ".NET"
+tag.aspnetcore = "ASP.NET Core"
+tag.api        = "APIs"
+tag.web        = "Web"
+tag.tooling    = "Tooling"
+
+relation.uses              = "Uses"
+relation."used-by"         = "Used by"
+relation."part-of"         = "Part of"
+relation.contains          = "Contains"
+relation."successor-of"    = "Succeeds"
+relation."predecessor-of"  = "Succeeded by"
+relation.companion         = "Goes with"

@@ -1,0 +1,18 @@
+version = 1
+
+[[projects]]
+repo     = "Folio"
+featured = true
+
+[[projects]]
+repo     = "Loom"
+featured = true
+
+[[projects]]
+repo = "DylanDeBeer-API"
+
+[[projects]]
+repo = "DylanDeBeerNL-Website"
+
+[[projects]]
+repo = "ResourcePackIdentifier"
