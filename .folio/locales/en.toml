@@ -62,3 +62,5 @@ ui.link_demo            = "Demo"
 ui.link_article         = "Article"
 ui.link_design          = "Design"
 
+
+ui.translation_missing  = "Shown in English"
