@@ -81,3 +81,5 @@ ui.link_demo            = "Demo"
 ui.link_article         = "Artikel"
 ui.link_design          = "Ontwerp"
 
+
+ui.translation_missing  = "Weergegeven in het Engels"
