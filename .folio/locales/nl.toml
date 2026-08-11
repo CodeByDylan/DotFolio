@@ -83,3 +83,5 @@ ui.link_design          = "Ontwerp"
 
 
 ui.translation_missing  = "Weergegeven in het Engels"
+
+ui.locale_unavailable   = "Je taalvoorkeur is niet meer beschikbaar. De standaardtaal wordt getoond."

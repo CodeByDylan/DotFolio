@@ -64,3 +64,5 @@ ui.link_design          = "Design"
 
 
 ui.translation_missing  = "Shown in English"
+
+ui.locale_unavailable   = "Your language preference is no longer available. Showing the default language."
