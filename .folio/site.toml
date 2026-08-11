@@ -19,14 +19,30 @@ id   = "intro"
 type = "hero"
 
 [[site.sections]]
+id   = "skills"
+type = "skills"
+
+[[site.sections]]
+id   = "faq"
+type = "qa"
+
+[[site.sections]]
+id   = "work"
+type = "projects"
+
+[[site.sections]]
+id   = "contact"
+type = "contact"
+
+[[site.sections]]
 id   = "about"
 file = "about.md"
 
 [[site.pages]]
 slug     = "home"
 home     = true
-sections = ["intro"]
+sections = ["intro", "work", "skills"]
 
 [[site.pages]]
 slug     = "about"
-sections = ["about"]
+sections = ["about", "faq", "contact"]

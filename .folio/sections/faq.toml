@@ -1,0 +1,10 @@
+version = 1
+
+[[entries]]
+id = "assembled"
+
+[[entries]]
+id = "stack"
+
+[[entries]]
+id = "availability"

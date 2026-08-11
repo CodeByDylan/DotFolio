@@ -77,3 +77,39 @@ section.intro.subheadline   = "APIs, libraries and the tooling around them — m
 section.intro.action.work   = "See my work"
 section.intro.action.github = "GitHub"
 section.intro.media.image.alt = "The Folio mark"
+
+section.skills.category.languages  = "Languages"
+section.skills.category.frameworks = "Frameworks"
+section.skills.category.tooling    = "Tooling"
+
+section.skills.skill.csharp         = "C#"
+section.skills.skill.typescript     = "TypeScript"
+section.skills.skill.sql            = "SQL"
+section.skills.skill.dotnet         = ".NET"
+section.skills.skill.aspnetcore     = "ASP.NET Core"
+section.skills.skill.react          = "React"
+section.skills.skill.git            = "Git"
+section.skills.skill.docker         = "Docker"
+section.skills.skill."github-actions" = "GitHub Actions"
+
+ui.skill_familiar   = "Familiar"
+ui.skill_proficient = "Proficient"
+ui.skill_expert     = "Expert"
+ui.skills_title     = "Skills"
+
+section.faq.question.assembled    = "How is this site put together?"
+section.faq.question.stack        = "What do you work with?"
+section.faq.question.availability = "Are you available for work?"
+ui.questions_title  = "Questions"
+
+section.contact.heading = "Get in touch"
+section.contact.blurb   = "Have a project in mind, or a question about something here? Send a message and I will reply."
+
+ui.contact_name     = "Name"
+ui.contact_email    = "Email"
+ui.contact_message  = "Message"
+ui.contact_submit   = "Send message"
+ui.contact_success  = "Thanks — your message is on its way. I will reply to the address you gave."
+ui.contact_error    = "That did not send. Try again in a moment, or reach me through the links above."
+
+section.work.heading = "Featured work"
