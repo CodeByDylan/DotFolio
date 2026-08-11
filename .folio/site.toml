@@ -17,3 +17,11 @@ url  = "https://dylandebeer.nl"
 [[site.sections]]
 id   = "about"
 file = "about.md"
+
+[[site.pages]]
+slug = "home"
+home = true
+
+[[site.pages]]
+slug     = "about"
+sections = ["about"]
