@@ -1,0 +1,46 @@
+version = 1
+
+[[categories]]
+id = "languages"
+
+[[categories.skills]]
+id    = "csharp"
+level = "expert"
+
+[[categories.skills]]
+id    = "typescript"
+level = "proficient"
+
+[[categories.skills]]
+id    = "sql"
+level = "proficient"
+
+[[categories]]
+id = "frameworks"
+
+[[categories.skills]]
+id    = "dotnet"
+level = "expert"
+
+[[categories.skills]]
+id    = "aspnetcore"
+level = "expert"
+
+[[categories.skills]]
+id    = "react"
+level = "familiar"
+
+[[categories]]
+id = "tooling"
+
+[[categories.skills]]
+id    = "git"
+level = "proficient"
+
+[[categories.skills]]
+id    = "docker"
+level = "proficient"
+
+[[categories.skills]]
+id    = "github-actions"
+level = "proficient"

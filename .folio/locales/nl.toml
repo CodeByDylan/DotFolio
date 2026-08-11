@@ -96,3 +96,39 @@ section.intro.subheadline   = "APIs, libraries en het gereedschap eromheen — g
 section.intro.action.work   = "Bekijk mijn werk"
 section.intro.action.github = "GitHub"
 section.intro.media.image.alt = "Het Folio-merk"
+
+section.skills.category.languages  = "Talen"
+section.skills.category.frameworks = "Frameworks"
+section.skills.category.tooling    = "Gereedschap"
+
+section.skills.skill.csharp         = "C#"
+section.skills.skill.typescript     = "TypeScript"
+section.skills.skill.sql            = "SQL"
+section.skills.skill.dotnet         = ".NET"
+section.skills.skill.aspnetcore     = "ASP.NET Core"
+section.skills.skill.react          = "React"
+section.skills.skill.git            = "Git"
+section.skills.skill.docker         = "Docker"
+section.skills.skill."github-actions" = "GitHub Actions"
+
+ui.skill_familiar   = "Bekend"
+ui.skill_proficient = "Vaardig"
+ui.skill_expert     = "Expert"
+ui.skills_title     = "Vaardigheden"
+
+section.faq.question.assembled    = "Hoe is deze site opgebouwd?"
+section.faq.question.stack        = "Waar werk je mee?"
+section.faq.question.availability = "Ben je beschikbaar voor werk?"
+ui.questions_title  = "Vragen"
+
+section.contact.heading = "Neem contact op"
+section.contact.blurb   = "Een project in gedachten, of een vraag over iets hier? Stuur een bericht en ik reageer."
+
+ui.contact_name     = "Naam"
+ui.contact_email    = "E-mail"
+ui.contact_message  = "Bericht"
+ui.contact_submit   = "Bericht versturen"
+ui.contact_success  = "Bedankt — je bericht is onderweg. Ik reageer op het adres dat je opgaf."
+ui.contact_error    = "Dat is niet verzonden. Probeer het zo nog eens, of gebruik de links hierboven."
+
+section.work.heading = "Uitgelicht werk"
