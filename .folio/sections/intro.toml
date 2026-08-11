@@ -1,0 +1,9 @@
+version = 1
+
+[[actions]]
+id  = "work"
+url = "https://dylandebeer.nl/projects"
+
+[[actions]]
+id  = "github"
+url = "https://github.com/CodeByDylan"

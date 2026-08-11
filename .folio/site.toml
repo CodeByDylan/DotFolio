@@ -15,12 +15,17 @@ type = "website"
 url  = "https://dylandebeer.nl"
 
 [[site.sections]]
+id   = "intro"
+type = "hero"
+
+[[site.sections]]
 id   = "about"
 file = "about.md"
 
 [[site.pages]]
-slug = "home"
-home = true
+slug     = "home"
+home     = true
+sections = ["intro"]
 
 [[site.pages]]
 slug     = "about"

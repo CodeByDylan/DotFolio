@@ -90,3 +90,8 @@ ui.link_design          = "Ontwerp"
 ui.translation_missing  = "Weergegeven in het Engels"
 
 ui.locale_unavailable   = "Je taalvoorkeur is niet meer beschikbaar. De standaardtaal wordt getoond."
+
+section.intro.headline      = "Ik bouw backendsystemen in C# en .NET"
+section.intro.subheadline   = "APIs, libraries en het gereedschap eromheen — grotendeels open source."
+section.intro.action.work   = "Bekijk mijn werk"
+section.intro.action.github = "GitHub"
