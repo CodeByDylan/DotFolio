@@ -7,3 +7,6 @@ url = "https://dylandebeer.nl/projects"
 [[actions]]
 id  = "github"
 url = "https://github.com/CodeByDylan"
+
+[media]
+image = "media/logo.svg"
