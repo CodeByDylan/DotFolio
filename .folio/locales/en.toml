@@ -71,3 +71,8 @@ ui.link_design          = "Design"
 ui.translation_missing  = "Shown in English"
 
 ui.locale_unavailable   = "Your language preference is no longer available. Showing the default language."
+
+section.intro.headline      = "I build backend systems in C# and .NET"
+section.intro.subheadline   = "APIs, libraries and the tooling around them — most of it open source."
+section.intro.action.work   = "See my work"
+section.intro.action.github = "GitHub"
