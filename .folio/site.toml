@@ -19,30 +19,50 @@ id   = "intro"
 type = "hero"
 
 [[site.sections]]
-id   = "skills"
-type = "skills"
-
-[[site.sections]]
-id   = "faq"
-type = "qa"
+id   = "welcome"
+file = "welcome.md"
 
 [[site.sections]]
 id   = "work"
 type = "projects"
 
 [[site.sections]]
-id   = "contact"
-type = "contact"
+id   = "skills"
+type = "skills"
 
 [[site.sections]]
 id   = "about"
 file = "about.md"
 
+[[site.sections]]
+id   = "faq"
+type = "qa"
+
+[[site.sections]]
+id   = "story"
+file = "story.md"
+
+[[site.sections]]
+id   = "reach"
+file = "reach.md"
+
+[[site.sections]]
+id   = "contact"
+type = "contact"
+
 [[site.pages]]
 slug     = "home"
 home     = true
-sections = ["intro", "work", "skills"]
+sections = ["intro", "welcome", "work", "skills"]
 
 [[site.pages]]
 slug     = "about"
-sections = ["about", "faq", "contact"]
+sections = ["about", "faq"]
+
+[[site.pages]]
+slug     = "story"
+sections = ["story"]
+
+[[site.pages]]
+slug     = "contact"
+sections = ["reach", "contact"]

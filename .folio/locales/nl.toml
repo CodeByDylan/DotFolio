@@ -4,8 +4,10 @@ site.tagline = "Dingen die ik heb gebouwd"
 link.github  = "GitHub"
 link.website = "Website"
 
-page.home  = "Home"
-page.about = "Over mij"
+page.home    = "Home"
+page.about   = "Over mij"
+page.story   = "Verhaal"
+page.contact = "Contact"
 
 tag.csharp     = "C#"
 tag.dotnet     = ".NET"
