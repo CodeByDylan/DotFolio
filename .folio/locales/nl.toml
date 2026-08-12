@@ -8,6 +8,7 @@ page.home    = "Home"
 page.about   = "Over mij"
 page.story   = "Verhaal"
 page.contact = "Contact"
+page.cookies = "Cookieverklaring"
 
 tag.csharp     = "C#"
 tag.dotnet     = ".NET"
@@ -134,3 +135,6 @@ ui.contact_success  = "Bedankt — je bericht is onderweg. Ik reageer op het adr
 ui.contact_error    = "Dat is niet verzonden. Probeer het zo nog eens, of gebruik de links hierboven."
 
 section.work.heading = "Uitgelicht werk"
+
+ui.footer_pages     = "Pagina's"
+ui.footer_elsewhere = "Elders"

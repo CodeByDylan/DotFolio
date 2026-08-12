@@ -8,6 +8,7 @@ page.home    = "Home"
 page.about   = "About"
 page.story   = "Story"
 page.contact = "Contact"
+page.cookies = "Cookie statement"
 
 tag.csharp     = "C#"
 tag.dotnet     = ".NET"
@@ -115,3 +116,6 @@ ui.contact_success  = "Thanks — your message is on its way. I will reply to th
 ui.contact_error    = "That did not send. Try again in a moment, or reach me through the links above."
 
 section.work.heading = "Featured work"
+
+ui.footer_pages     = "Pages"
+ui.footer_elsewhere = "Elsewhere"
