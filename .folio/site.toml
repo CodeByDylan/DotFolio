@@ -50,6 +50,10 @@ file = "reach.md"
 id   = "contact"
 type = "contact"
 
+[[site.sections]]
+id   = "cookies"
+file = "cookies.md"
+
 [[site.pages]]
 slug     = "home"
 home     = true
@@ -66,3 +70,9 @@ sections = ["story"]
 [[site.pages]]
 slug     = "contact"
 sections = ["reach", "contact"]
+
+# Reachable from the footer only, so it stays out of the site navigation.
+[[site.pages]]
+slug     = "cookies"
+nav      = false
+sections = ["cookies"]
